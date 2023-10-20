@@ -1,0 +1,18 @@
+img{
+    border: 2px;
+    border-radius: 8px;
+    width: 400px;
+    
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+body{
+    background-color: pink;
+}
+p{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+
+}
