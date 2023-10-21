@@ -1,1 +1,5 @@
-# WEB-ASSIGMENT
+# WEB-ASSIGMENT![Home](https://github.com/shanitahgithub/WEB-ASSIGMENT/assets/142230234/c54f53a2-50a8-4d34-b6a2-51792e86f45e)
+![About US](https://github.com/shanitahgithub/WEB-ASSIGMENT/assets/142230234/05ce539a-cf0e-499a-991b-3bf376edce8f)
+![menu](https://github.com/shanitahgithub/WEB-ASSIGMENT/assets/142230234/d7ca48a8-1189-439d-b2c0-1d46aebdaac5)
+![R](https://github.com/shanitahgithub/WEB-ASSIGMENT/assets/142230234/3bbd3787-4565-4924-8d25-48abe9fd616a)
+![gallery](https://github.com/shanitahgithub/WEB-ASSIGMENT/assets/142230234/21a49474-5e73-45ec-9850-76d40697d9d4)
