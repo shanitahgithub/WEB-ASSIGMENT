@@ -1,7 +1,6 @@
 # WEB-ASSIGMENT!
-![HOME](https://github.com/shanitahgithub/WEB-ASSIGMENT/assets/142230234/2a0ffbfb-b388-43fc-82c7-50cf04ee65fd)
-
-![ABOUT US](htt![MENUUU](https://github.com/shanitahgithub/WEB-ASSIGMENT/assets/142230234/67550b8a-b842-450c-8d7b-1dab51ef5673)
-ps://github.com/shanitahgithub/WEB-ASSIGMENT/assets/142230234/ce18c816-69ec-4c78-ad7f-abd6507597ec)
-![GALLERY](https://github.com/shanitahgithub/WEB-ASSIGMENT/assets/142230234/229878b4-e7ba-4d91-8477-7e09e9d6187a)
-![CONTACT](https://github.com/shanitahgithub/WEB-ASSIGMENT/assets/142230234/6e78e1ac-f408-46a0-906b-da04caa707aa)
+![HOME](https://github.com/shanitahgithub/WEB-ASSIGMENT/assets/142230234/8e6973b7-3aa5-48d3-9266-5de38ab53a93)
+![ABOUT US](https://github.com/shanitahgithub/WEB-ASSIGMENT/assets/142230234/968e66f8-8dfe-46f1-9efd-19b1ed25c73e)
+![MENUUU](https://github.com/shanitahgithub/WEB-ASSIGMENT/assets/142230234/b62148ab-b12b-489d-b356-21ffbfd317db)
+![GALLERY](https://github.com/shanitahgithub/WEB-ASSIGMENT/assets/142230234/c84c5ef2-d08c-402e-bdc4-69472ab345ab)
+![CONTACT](https://github.com/shanitahgithub/WEB-ASSIGMENT/assets/142230234/338a7dd7-3884-4d6f-a4d3-04193fe9bffc)
