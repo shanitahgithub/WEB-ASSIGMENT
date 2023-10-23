@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size: 40px;
+    
+}
+p{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    
+}
+body{
+    background-color: goldenrod;
+}
+div{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+}
+img{
+    border: 2px;
+    border-radius: 8px;
+    width:405px
+}
