@@ -9,7 +9,7 @@ h1{
 p{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: larger;
+    font-size: 20px;
     
 }
 body{
@@ -18,7 +18,7 @@ body{
 div{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: larger;
+    font-size: 20px;
 }
 img{
     border: 2px;
