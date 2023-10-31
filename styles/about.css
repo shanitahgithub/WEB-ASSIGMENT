@@ -13,7 +13,14 @@ p{
     
 }
 body{
-    background-color: goldenrod;
+    background-color: orange;
+    padding: 0, 10px, 30px, 10px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(350px,1fr));
+    grid-gap: 30px;
+    
+    
+
 }
 div{
     text-align: center;
@@ -21,7 +28,20 @@ div{
     font-size: 20px;
 }
 img{
-    border: 2px;
+    border: 10px;
     border-radius: 8px;
-    width:405px
+    width:405px;
+    display: grid;
+    grid-row-gap: 15px;
+    position: relative;
+    grid-template-rows: auto, 1fr;
+    border-radius: 15px;
+    box-shadow:0 15px rgba(0,0,0,0,6);
+    transition: .2 ease-in-out;
+    
+
+
+    
+    
+
 }
